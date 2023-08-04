@@ -1,0 +1,1 @@
+# Analyze-and-Classify-Video-with-CLIP
